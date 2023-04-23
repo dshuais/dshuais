@@ -1,4 +1,3 @@
-```
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome&width=800&height=300)](https://github.com/Akshay090/svg-banners)
 
 ### 🏠我的主页
@@ -28,4 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
