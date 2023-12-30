@@ -4,6 +4,10 @@
 
 [dshuais.com](https://www.dshuais.com)
 
+### 💡我的实验室
+
+[Danmaku-vue](https://danmaku-vue.dshuais.com/)
+
 ### 🌴Github浏览量
 
 ![dshuais.github](https://count.getloli.com/get/@dshuais.github)
