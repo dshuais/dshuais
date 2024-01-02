@@ -16,11 +16,11 @@
 &nbsp;&nbsp;💻：in development...<br />
 &nbsp;&nbsp;🍩：in development...
 
-### 🌴Github浏览量
+### 🌴 Page View
 
 ![dshuais.github](https://count.getloli.com/get/@dshuais.github)
 
-### ✨Github统计
+### ✨ Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshuais&show_icons=true&theme=buefy&hide_title=true&bg_color=0,00C9FF,92FE9D)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dshuais&layout=compact&bg_color=0,92FE9D,00C9FF)](https://github.com/anuraghazra/github-readme-stats)
