@@ -7,12 +7,12 @@
 &nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com)
 
 #### Danmaku-vue：
-&nbsp;&nbsp;💡：一款基于vue3的web弹幕交互插件<br />
+&nbsp;&nbsp;💡：一款基于vue3的web弹幕交互插件，轻便、易用、扩展性强<br />
 &nbsp;&nbsp;💻：[Danmaku-vue.dshuais.com](https://danmaku-vue.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：[Demo](https://dshuais.github.io/danmaku-vue/)
 
 #### Lottie-vue3：
-&nbsp;&nbsp;💡：一款基于vue3+lottie-web的lottie动画播放交互插件<br />
+&nbsp;&nbsp;💡：一款基于vue3+lottie-web的lottie动画播放交互插件，干净、易用、更多的API<br />
 &nbsp;&nbsp;💻：in development...<br />
 &nbsp;&nbsp;🍩：in development...
 
