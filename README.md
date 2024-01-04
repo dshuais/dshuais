@@ -1,6 +1,15 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome&width=800&height=300)](https://github.com/Akshay090/svg-banners)
 
-### 🔭 I’m currently working on
+### Hi there 👋
+
+- 🔭 I’m currently working on WuHan.
+- 🌱 I’m currently learning Vue & React & ReactNative & Node.
+- 📫 How to reach me: dsshuai2020@163.com
+
+Love your life, Love programming.
+
+
+### I'm currently doing it ... ⚒
 
 #### HomePage：
 &nbsp;&nbsp;💡：in development...<br />
@@ -21,9 +30,11 @@
 &nbsp;&nbsp;💻：in development...<br />
 &nbsp;&nbsp;🍩：in development...
 
+<!-- 
 ### 🌴 Page View
 
 ![dshuais.github](https://count.getloli.com/get/@dshuais.github)
+-->
 
 ### ✨ Statistics
 
