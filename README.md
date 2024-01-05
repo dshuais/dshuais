@@ -17,6 +17,7 @@ Love your life, Love programming.
 - 组件库、工具库开发，详见 [keep-design](https://github.com/dshuais#keep-design)、[danmaku-vue](https://github.com/dshuais#danmaku-vue)、[lottie-vue3](https://github.com/dshuais#lottie-vue3)
 - 服务器 + Nginx 配置，Nest、Koa2、Java、SpringBoot、MySql、Redis 等。
 - APP、Web、Applet 等多端开发。
+- 了解更多 lib、Static Site Generator 相关。
 
 ### I'm currently doing it ... ⚒
 
@@ -24,7 +25,7 @@ Love your life, Love programming.
 &nbsp;&nbsp;💡：in development...<br />
 &nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com)
 
-#### Danmaku-vue：
+#### Danmaku-vue：[📍](https://github.com/dshuais/danmaku-vue)
 &nbsp;&nbsp;💡：一款基于vue3的web弹幕交互插件，轻便、易用、扩展性强<br />
 &nbsp;&nbsp;💻：[Danmaku-vue.dshuais.com](https://danmaku-vue.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：[Demo](https://dshuais.github.io/danmaku-vue/)
@@ -34,7 +35,7 @@ Love your life, Love programming.
 &nbsp;&nbsp;💻：in development...<br />
 &nbsp;&nbsp;🍩：in development...
 
-#### Keep-Design：
+#### Keep-Design：[📍](https://github.com/dshuais/keep-design)
 &nbsp;&nbsp;💡：基于Vue3开发的一个奇怪且有个性的组件库，全面拥抱Vue3生态，支持TypeScript，支持按需引入。它也可以是一个用于开发npm库的模板<br />
 &nbsp;&nbsp;💻：in development...<br />
 &nbsp;&nbsp;🍩：in development...
