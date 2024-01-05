@@ -8,6 +8,15 @@
 
 Love your life, Love programming.
 
+个人方向：大前端，偏Vue技术栈，TypeScript
+- Vue、Vue3、Vue-Router、Vuex、Pinia、Vite、Webpack。
+- React、React-Router、Redux、Hooks。
+- SSR Nuxt。
+- 更多跨端框架学习，包括但不限于 Uni-App、React-Native。
+- 微前端解决方案 qiankun。
+- 组件库、工具库开发，详见 [keep-design](https://github.com/dshuais#keep-design)、[danmaku-vue](https://github.com/dshuais#danmaku-vue)、[lottie-vue3](https://github.com/dshuais#lottie-vue3)
+- 服务器 + Nginx 配置，Nest、Koa2、Java、SpringBoot、MySql、Redis 等。
+- APP、Web、Applet 等多端开发。
 
 ### I'm currently doing it ... ⚒
 
