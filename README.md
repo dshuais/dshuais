@@ -25,20 +25,20 @@ Love your life, Love programming.
 &nbsp;&nbsp;💡：in development...<br />
 &nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com)
 
-#### Danmaku-vue：[📍](https://github.com/dshuais/danmaku-vue)
-&nbsp;&nbsp;💡：一款基于vue3的web弹幕交互插件，轻便、易用、扩展性强<br />
-&nbsp;&nbsp;💻：[Danmaku-vue.dshuais.com](https://danmaku-vue.dshuais.com/)<br />
-&nbsp;&nbsp;🍩：[Demo](https://dshuais.github.io/danmaku-vue/)
+#### Keep-Design：[📍](https://github.com/dshuais/keep-design)
+&nbsp;&nbsp;💡：基于Vue3开发的一个奇怪且有个性的组件库，全面拥抱Vue3生态，支持TypeScript，支持按需引入，支持单元测试等。它也可以是一个用于开发组件库的模板。正经Vue3组件库开发脚手架看这里[传送门](https://create-keep-design.dshuais.com/)<br />
+&nbsp;&nbsp;💻：in development...<br />
+&nbsp;&nbsp;🍩：in development...
 
 #### Lottie-vue3：
 &nbsp;&nbsp;💡：一款基于vue3+lottie-web的lottie动画播放交互插件，干净、易用、更多的API<br />
 &nbsp;&nbsp;💻：in development...<br />
 &nbsp;&nbsp;🍩：in development...
 
-#### Keep-Design：[📍](https://github.com/dshuais/keep-design)
-&nbsp;&nbsp;💡：基于Vue3开发的一个奇怪且有个性的组件库，全面拥抱Vue3生态，支持TypeScript，支持按需引入，支持单元测试等。它也可以是一个用于开发npm库的模板<br />
-&nbsp;&nbsp;💻：in development...<br />
-&nbsp;&nbsp;🍩：in development...
+#### Danmaku-vue：[📍](https://github.com/dshuais/danmaku-vue)
+&nbsp;&nbsp;💡：一款基于vue3的web弹幕交互插件，轻便、易用、扩展性强<br />
+&nbsp;&nbsp;💻：[Danmaku-vue.dshuais.com](https://danmaku-vue.dshuais.com/)<br />
+&nbsp;&nbsp;🍩：[Demo](https://dshuais.github.io/danmaku-vue/)
 
 <!-- 
 ### 🌴 Page View
