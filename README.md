@@ -26,7 +26,7 @@ Love your life, Love programming.
 &nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com)
 
 #### Keep-Design：[📍](https://github.com/dshuais/keep-design)
-&nbsp;&nbsp;💡：基于Vue3开发的一个奇怪且有个性的组件库，全面拥抱Vue3生态，支持TypeScript，支持按需引入，支持单元测试等。它也可以是一个用于开发组件库的模板。正经Vue3组件库开发脚手架看这里[传送门](https://create-keep-design.dshuais.com/)<br />
+&nbsp;&nbsp;💡：基于Vue3开发的一个奇怪且有个性的组件库，全面拥抱Vue3生态，支持TypeScript、按需引入、单元测试、且有配套自动按需导入插件等。它也可以是一个用于开发组件库的模板。正经Vue3组件库开发脚手架看这里[传送门](https://create-keep-design.dshuais.com/)<br />
 &nbsp;&nbsp;💻：in development...<br />
 &nbsp;&nbsp;🍩：in development...
 
