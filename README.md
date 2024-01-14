@@ -9,7 +9,7 @@
 Love your life, Love programming.
 
 个人方向：大前端，偏Vue技术栈，TypeScript
-- Vue、Vue3、Vue-Router、Vuex、Pinia、Vite、Webpack。
+- Vue、Vue 3、Vue-Router、Vuex、Pinia、Vite、Webpack。
 - React、React-Router、Redux、Hooks。
 - SSR Nuxt。
 - 更多跨端框架学习，包括但不限于 Uni-App、React-Native。
@@ -25,19 +25,19 @@ Love your life, Love programming.
 &nbsp;&nbsp;💡：in development...<br />
 &nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com)
 
-#### Keep-Design：[📍](https://github.com/dshuais/keep-design)
-&nbsp;&nbsp;💡：基于Vue3开发的一个奇怪且有个性的组件库，全面拥抱Vue3生态，支持TypeScript、按需引入、单元测试、且有配套自动按需导入插件等。它也可以是一个用于开发组件库的模板。正经Vue3组件库开发脚手架看这里[传送门](https://create-keep-design.dshuais.com/)<br />
-&nbsp;&nbsp;💻：in development...<br />
-&nbsp;&nbsp;🍩：in development...
+#### Keep-Design：[📍](https://github.com/dshuais/keep-design)（持续更新...）
+&nbsp;&nbsp;💡：基于Vue 3开发的一个奇怪且有个性的组件库，全面拥抱Vue3生态，支持TypeScript、按需引入、单元测试、且有配套auto-improt-resolver插件、Composition API等。它也可以是一个用于开发组件库的模板。正经Vue 3组件库开发脚手架看这里[传送门](https://create-keep-design.dshuais.com/)<br />
+&nbsp;&nbsp;💻：[Keep Design](https://keep-design.dshuais.com/)<br />
+&nbsp;&nbsp;🍩：[Keep Design Components](https://keep-design.dshuais.com/components/)
 
 #### Lottie-vue3：
-&nbsp;&nbsp;💡：一款基于vue3+lottie-web的lottie动画播放交互插件，干净、易用、更多的API<br />
+&nbsp;&nbsp;💡：一款基于Vue 3+Lottie-Web的lottie动画播放交互插件，干净、易用、更多的API<br />
 &nbsp;&nbsp;💻：in development...<br />
 &nbsp;&nbsp;🍩：in development...
 
 #### Danmaku-vue：[📍](https://github.com/dshuais/danmaku-vue)
-&nbsp;&nbsp;💡：一款基于vue3的web弹幕交互插件，轻便、易用、扩展性强<br />
-&nbsp;&nbsp;💻：[Danmaku-vue.dshuais.com](https://danmaku-vue.dshuais.com/)<br />
+&nbsp;&nbsp;💡：一款基于Vue 3的web弹幕交互插件，轻便、易用、扩展性强<br />
+&nbsp;&nbsp;💻：[Danmaku Vue](https://danmaku-vue.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：[Demo](https://dshuais.github.io/danmaku-vue/)
 
 <!-- 
