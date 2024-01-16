@@ -14,7 +14,7 @@ Love your life, Love programming.
 - SSR Nuxt。
 - 更多跨端框架学习，包括但不限于 Uni-App、React-Native。
 - 微前端解决方案 qiankun。
-- 组件库、工具库开发，详见 [keep-design](https://github.com/dshuais#keep-design)、[danmaku-vue](https://github.com/dshuais#danmaku-vue)、[lottie-vue3](https://github.com/dshuais#lottie-vue3)、[create-keep-design](https://github.com/dshuais/create-keep-design)
+- 组件库、工具库开发，详见 [keep-design](https://github.com/dshuais#keep-design)、[create-keep-design](https://github.com/dshuais#create-keep-design)、[lottie-vue3](https://github.com/dshuais#lottie-vue3)、[danmaku-vue](https://github.com/dshuais#danmaku-vue)
 - 服务器 + Nginx 配置，Nest、Koa2、Java、SpringBoot、MySql、Redis、MyBatis-Plus、Sequelize 等。
 - APP、Web、Applet 等多端开发。
 - 了解更多 lib、Static Site Generator 相关。
@@ -30,6 +30,11 @@ Love your life, Love programming.
 &nbsp;&nbsp;💻：[Keep Design](https://keep-design.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：[Keep Design Components](https://keep-design.dshuais.com/components/)
 
+#### Create-Keep-Design：[📍](https://github.com/dshuais/create-keep-design)（持续更新...）
+&nbsp;&nbsp;💡：一个正经的快速搭建Vue 3组件库开发环境的脚手架，使用Vite+TypeScript开发，命令行直接使用，功能丰富 包含组件库配套auto-improt-resolver、Composition API、基于VitePress构建的组件库Site和开发一个自己的create-xxx模板脚手架。还包含更多有趣的项目模板和脚手架，详见官网。<br />
+&nbsp;&nbsp;💻：[Create Keep Design](https://create-keep-design.dshuais.com/)<br />
+&nbsp;&nbsp;🍩：[掘金专栏](https://juejin.cn/column/7322442553550716980) 脚手架搭建教程见掘金专栏
+
 #### Lottie-vue3：
 &nbsp;&nbsp;💡：一款基于Vue 3+Lottie-Web的lottie动画播放交互插件，干净、易用、更多的API<br />
 &nbsp;&nbsp;💻：[Lottie Vue3](https://lottie-vue3.dshuais.com/)<br />
@@ -39,11 +44,6 @@ Love your life, Love programming.
 &nbsp;&nbsp;💡：一款基于Vue 3的web弹幕交互插件，轻便、易用、扩展性强<br />
 &nbsp;&nbsp;💻：[Danmaku Vue](https://danmaku-vue.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：[Demo](https://dshuais.github.io/danmaku-vue/)
-
-#### Create-Keep-Design：[📍](https://github.com/dshuais/create-keep-design)（持续更新...）
-&nbsp;&nbsp;💡：一个正经的快速搭建Vue 3组件库开发环境的脚手架，使用Vite+TypeScript开发，命令行直接使用，功能丰富 包含组件库配套auto-improt-resolver、Composition API、基于VitePress构建的组件库Site和开发一个自己的create-xxx模板脚手架。还包含更多有趣的项目模板和脚手架，详见官网。<br />
-&nbsp;&nbsp;💻：[Create Keep Design](https://create-keep-design.dshuais.com/)<br />
-&nbsp;&nbsp;🍩：[掘金专栏](https://juejin.cn/column/7322442553550716980) 脚手架搭建教程见掘金专栏
 
 <!-- 
 ### 🌴 Page View
