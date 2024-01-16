@@ -23,7 +23,7 @@ Love your life, Love programming.
 
 #### HomePage：
 &nbsp;&nbsp;💡：in development...<br />
-&nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com)
+&nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com/)
 
 #### Keep-Design：[📍](https://github.com/dshuais/keep-design)（持续更新...）
 &nbsp;&nbsp;💡：基于Vue 3开发的一个奇怪且有个性的组件库，全面拥抱Vue 3生态，支持TypeScript、按需引入、单元测试、且有配套auto-improt-resolver插件、Composition API等。它也可以是一个用于开发组件库的模板。正经Vue 3组件库开发脚手架看这里[传送门](https://create-keep-design.dshuais.com/)<br />
@@ -32,7 +32,7 @@ Love your life, Love programming.
 
 #### Lottie-vue3：
 &nbsp;&nbsp;💡：一款基于Vue 3+Lottie-Web的lottie动画播放交互插件，干净、易用、更多的API<br />
-&nbsp;&nbsp;💻：in development...<br />
+&nbsp;&nbsp;💻：[Lottie Vue3](https://lottie-vue3.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：in development...
 
 #### Danmaku-vue：[📍](https://github.com/dshuais/danmaku-vue)
@@ -40,7 +40,7 @@ Love your life, Love programming.
 &nbsp;&nbsp;💻：[Danmaku Vue](https://danmaku-vue.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：[Demo](https://dshuais.github.io/danmaku-vue/)
 
-#### Create-Keep-Design：[📍]([https://github.com/dshuais/keep-design](https://github.com/dshuais/create-keep-design))（持续更新...）
+#### Create-Keep-Design：[📍](https://github.com/dshuais/create-keep-design)（持续更新...）
 &nbsp;&nbsp;💡：一个正经的快速搭建Vue 3组件库开发环境的脚手架，使用Vite+TypeScript开发，命令行直接使用，功能丰富 包含组件库配套auto-improt-resolver、Composition API、基于VitePress构建的组件库Site和开发一个自己的create-xxx模板脚手架。还包含更多有趣的项目模板和脚手架，详见官网。<br />
 &nbsp;&nbsp;💻：[Create Keep Design](https://create-keep-design.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：[掘金专栏](https://juejin.cn/column/7322442553550716980) 脚手架搭建教程见掘金专栏
