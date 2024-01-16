@@ -14,7 +14,7 @@ Love your life, Love programming.
 - SSR Nuxt。
 - 更多跨端框架学习，包括但不限于 Uni-App、React-Native。
 - 微前端解决方案 qiankun。
-- 组件库、工具库开发，详见 [keep-design](https://github.com/dshuais#keep-design)、[create-keep-design](https://github.com/dshuais#create-keep-design)、[lottie-vue3](https://github.com/dshuais#lottie-vue3)、[danmaku-vue](https://github.com/dshuais#danmaku-vue)
+- 组件库、工具库开发，详见 [keep-design](https://github.com/dshuais#keep-design持续更新)、[create-keep-design](https://github.com/dshuais#create-keep-design持续更新)、[lottie-vue3](https://github.com/dshuais#lottie-vue3)、[danmaku-vue](https://github.com/dshuais#danmaku-vue)
 - 服务器 + Nginx 配置，Nest、Koa2、Java、SpringBoot、MySql、Redis、MyBatis-Plus、Sequelize 等。
 - APP、Web、Applet 等多端开发。
 - 了解更多 lib、Static Site Generator 相关。
