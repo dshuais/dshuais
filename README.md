@@ -23,7 +23,7 @@ Love your life, Love programming.
 
 #### HomePage：[📍](https://github.com/dshuais/homepage)
 &nbsp;&nbsp;💡：一个基于 @nuxt-themes/docus 搭建开发的干净简洁的站点。<br />
-&nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com/)
+&nbsp;&nbsp;💻：[Du Shuai's HomePage](https://www.dshuais.com/)
 
 #### Keep-Design：[📍](https://github.com/dshuais/keep-design)（持续更新...）
 &nbsp;&nbsp;💡：基于Vue 3开发的一个奇怪且有个性的组件库，全面拥抱Vue 3生态，支持TypeScript、按需引入、单元测试、且有配套auto-improt-resolver插件、Composition API等。它也可以是一个用于开发组件库的模板。正经Vue 3组件库开发脚手架看这里[传送门](https://create-keep-design.dshuais.com/)<br />
