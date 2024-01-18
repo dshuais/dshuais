@@ -21,8 +21,8 @@ Love your life, Love programming.
 
 ### I'm currently doing it ... ⚒
 
-#### HomePage：
-&nbsp;&nbsp;💡：in development...<br />
+#### HomePage：[📍](https://github.com/dshuais/homepage)
+&nbsp;&nbsp;💡：一个基于 @nuxt-themes/docus 搭建开发的干净简洁的站点。<br />
 &nbsp;&nbsp;💻：[dshuais.com](https://www.dshuais.com/)
 
 #### Keep-Design：[📍](https://github.com/dshuais/keep-design)（持续更新...）
