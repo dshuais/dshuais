@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on WuHan.
-- 🌱 I’m currently learning Vue & React & ReactNative & Node.
+- 🌱 I’m currently learning Vue & Nuxt & React & ReactNative & Node.
 - 📫 How to reach me: dsshuai2020@163.com
 
 Love your life, Love programming.
