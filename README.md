@@ -53,8 +53,12 @@ Love your life, Love programming.
 
 ### ✨ Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshuais&show_icons=true&theme=buefy&hide_title=true&bg_color=0,00C9FF,92FE9D)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dshuais&layout=compact&bg_color=0,92FE9D,00C9FF)](https://github.com/anuraghazra/github-readme-stats)
+|<a href="https://github.com/dshuais" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dshuais&show_icons=true&theme=default&hide_title=false&hide_border=true" /></a>|<a href="https://github.com/dshuais" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshuais&layout=compact&&hide_border=true" /></a>|
+|---|---|
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshuais&show_icons=true&theme=default&hide_title=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dshuais&layout=compact&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **dshuais/dshuais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
