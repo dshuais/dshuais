@@ -45,12 +45,6 @@ Love your life, Love programming.
 &nbsp;&nbsp;💻：[Danmaku Vue](https://danmaku-vue.dshuais.com/)<br />
 &nbsp;&nbsp;🍩：[Demo](https://dshuais.github.io/danmaku-vue/)
 
-<!-- 
-### 🌴 Page View
-
-![dshuais.github](https://count.getloli.com/get/@dshuais.github)
--->
-
 ### ✨ Statistics
 
 |<a href="https://github.com/dshuais" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dshuais&show_icons=true&theme=default&hide_title=false&hide_border=true" /></a>|<a href="https://github.com/dshuais" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshuais&layout=compact&&hide_border=true" /></a>|
