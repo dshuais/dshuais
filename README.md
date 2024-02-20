@@ -1,4 +1,4 @@
-<div align="center"><strong>dshuais</strong></div>
+<h1 align="center"><strong>dshuais</strong></h1>
 
 <div align="center">
   <a href="https://www.dshuais.com/" target="_blank">Website</a>
