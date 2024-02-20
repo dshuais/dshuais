@@ -1,13 +1,19 @@
 <div align="center" style="font-size:32px;font-weight: 600;">dshuais</div>
 <hr />
 <div align="center" style="display:flex;justify-content: center;align-items: center;">
-  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://www.dshuais.com/">homepage</a>·
-  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://blog.dshuais.com/">blog</a>·
-  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://keep-design.dshuais.com/">keep-design</a>·
-  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://create-keep-design.dshuais.com/">create-keep-design</a>·
-  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://lottie-vue3.dshuais.com/">lottie-vue3</a>·
-  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://danmaku-vue.dshuais.com/">danmaku-vue</a>·
-  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://hot.dshuais.com/">hot</a>
+  <a style="text-decoration: none;color:#000;margin:0 15px;" href="https://www.dshuais.com/">homepage</a>
+  ·
+  <a style="text-decoration: none;color:#000;margin:0 15px;" href="https://blog.dshuais.com/">blog</a>
+  ·
+  <a style="text-decoration: none;color:#000;margin:0 15px;" href="https://keep-design.dshuais.com/">keep-design</a>
+  ·
+  <a style="text-decoration: none;color:#000;margin:0 15px;" href="https://create-keep-design.dshuais.com/">create-keep-design</a>
+  ·
+  <a style="text-decoration: none;color:#000;margin:0 15px;" href="https://lottie-vue3.dshuais.com/">lottie-vue3</a>
+  ·
+  <a style="text-decoration: none;color:#000;margin:0 15px;" href="https://danmaku-vue.dshuais.com/">danmaku-vue</a>
+  ·
+  <a style="text-decoration: none;color:#000;margin:0 15px;" href="https://hot.dshuais.com/">hot</a>
 </div>
 
 
