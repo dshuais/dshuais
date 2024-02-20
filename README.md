@@ -1,7 +1,7 @@
 <div align="center"><strong>dshuais</strong></div>
 
 <div align="center">
-  <a href="https://www.dshuais.com/">Website</a>
+  <a href="https://www.dshuais.com/" target="_blank">Website</a>
   ·
   <a href="https://blog.dshuais.com/">Blog</a>
   ·
