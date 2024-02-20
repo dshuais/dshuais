@@ -1,4 +1,21 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome&width=800&height=300)](https://github.com/Akshay090/svg-banners)
+<div align="center" style="font-size:32px;font-weight: 600;">dshuais</div>
+<hr />
+<div style="display:flex;justify-content: center;align-items: center;">
+  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://www.dshuais.com/">homepage</a>·
+  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://blog.dshuais.com/">blog</a>·
+  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://keep-design.dshuais.com/">keep-design</a>·
+  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://create-keep-design.dshuais.com/">create-keep-design</a>·
+  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://lottie-vue3.dshuais.com/">lottie-vue3</a>·
+  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://danmaku-vue.dshuais.com/">danmaku-vue</a>·
+  <a style="text-decoration: none;color:#000;margin:0 5px;" href="https://hot.dshuais.com/">hot</a>
+</div>
+
+| <a href="https://github.com/dshuais" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dshuais&show_icons=true&theme=default&hide_title=false&hide_border=true" /></a> | <a href="https://github.com/dshuais" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshuais&layout=compact&&hide_border=true" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+![dshuais's github activity graph](https://raw.githubusercontent.com/dshuais/dshuais/output/github-contribution-grid-snake.svg)
+
+<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome&width=800&height=300)](https://github.com/Akshay090/svg-banners)
 
 ### Hi there 👋
 
@@ -50,7 +67,7 @@ Love your life, Love programming.
 |<a href="https://github.com/dshuais" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dshuais&show_icons=true&theme=default&hide_title=false&hide_border=true" /></a>|<a href="https://github.com/dshuais" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshuais&layout=compact&&hide_border=true" /></a>|
 |---|---|
 
-![dshuais's github activity graph](https://raw.githubusercontent.com/dshuais/dshuais/output/github-contribution-grid-snake.svg)
+![dshuais's github activity graph](https://raw.githubusercontent.com/dshuais/dshuais/output/github-contribution-grid-snake.svg) -->
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dshuais&show_icons=true&theme=default&hide_title=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dshuais&layout=compact&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
