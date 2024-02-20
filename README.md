@@ -1,19 +1,16 @@
 <h1 align="center"><strong>dshuais</strong></h1>
+<p align="center">I'm a software engineering professional, author of keep-design. who sometimes blogs, often hacks on projects, and is always listening to music. </p>
 
 <div align="center">
-  <a href="https://www.dshuais.com/" target="_blank">Website</a>
-  ·
-  <a href="https://blog.dshuais.com/">Blog</a>
-  ·
-  <a href="https://keep-design.dshuais.com/">Keep-Design</a>
-  ·
-  <a href="https://create-keep-design.dshuais.com/">Create-Keep-Design</a>
-  ·
-  <a href="https://lottie-vue3.dshuais.com/">Lottie-vue3</a>
-  ·
-  <a href="https://danmaku-vue.dshuais.com/">Danmaku-vue</a>
-  ·
-  <a href="https://hot.dshuais.com/">Hot</a>
+  <samp>
+    <a href="https://www.dshuais.com/" target="_blank">me</a> ·
+    <a href="https://blog.dshuais.com/">blog</a> ·
+    <a href="https://keep-design.dshuais.com/">keep-design</a> ·
+    <a href="https://create-keep-design.dshuais.com/">create-keep-design</a> ·
+    <a href="https://lottie-vue3.dshuais.com/">lottie-vue3</a> ·
+    <a href="https://danmaku-vue.dshuais.com/">danmaku-vue</a> ·
+    <a href="https://hot.dshuais.com/">hot</a>
+  </samp>
 </div>
 
 
