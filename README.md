@@ -1,3 +1,4 @@
+
 <h1 align="center"><strong>dshuais</strong></h1>
 <p align="center">I'm a frontend engineer, creator of keep-design, who sometimes blogs, often hacks on projects, and is always listening to music. </p>
 
@@ -13,6 +14,23 @@
   </samp>
 </div>
 
+### Hi there 👋
+
+- 😊 I'm Du Shuai.
+- 🔭 I’m currently working on WuHan.
+- 🌱 I’m currently learning Vue & Nuxt & React & ReactNative & Node.
+- 📫 How to reach me: dsshuai2020@163.com
+
+个人方向：大前端，偏Vue技术栈，TypeScript
+- Vue、Vue 3、Vue-Router、Vuex、Pinia、Vite、Webpack。
+- React、React-Router、Redux、Hooks。
+- SSR Nuxt。
+- 更多跨端框架学习，包括但不限于 Uni-App、React-Native。
+- 微前端解决方案 qiankun。
+- 组件库、工具库开发，详见 [keep-design](https://github.com/dshuais#keep-design持续更新)、[create-keep-design](https://github.com/dshuais#create-keep-design持续更新)、[lottie-vue3](https://github.com/dshuais#lottie-vue3)、[danmaku-vue](https://github.com/dshuais#danmaku-vue)
+- 服务器 + Nginx 配置，Nest、Koa2、Java、SpringBoot、MySql、Redis、MyBatis-Plus、Sequelize 等。
+- APP、Web、Applet 等多端开发。
+- 了解更多 lib、Static Site Generator 相关。
 
 ![dshuais's github activity graph](https://raw.githubusercontent.com/dshuais/dshuais/output/github-contribution-grid-snake.svg)
 
