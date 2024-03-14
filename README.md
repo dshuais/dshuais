@@ -10,8 +10,8 @@
     <a href="https://keep-design.dshuais.com/">keep-design</a> ·
     <a href="https://create-keep-design.dshuais.com/">create-keep-design</a> ·
     <a href="https://lottie-vue3.dshuais.com/">lottie-vue3</a> ·
-    <a href="https://danmaku-vue.dshuais.com/">danmaku-vue</a> ·
-    <a href="https://hot.dshuais.com/">hot</a>
+    <a href="https://danmaku-vue.dshuais.com/">danmaku-vue</a>
+<!--     <a href="https://hot.dshuais.com/">hot</a> -->
   </samp>
 </div>
 
