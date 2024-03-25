@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dshuais&label=Profile%20views&color=0e75b6&style=flat" alt="dshuais" /> </p>
+
 
 <h1 align="center"><strong>dshuais</strong></h1>
 <p align="center">I'm a frontend engineer, creator of keep-design, who sometimes blogs, often hacks on projects, and is always listening to music. </p>
@@ -15,9 +17,9 @@
   </samp>
 </div>
 
-### Hi there 👋
+### Hi 👋, I'm Du Shuai.
 
-- 😊 I'm Du Shuai.
+<!-- - 😊 I'm Du Shuai. -->
 - 🔭 I’m currently working on WuHan.
 - 🌱 I’m currently learning Vue & Nuxt & React & ReactNative & Node.
 - 📫 How to reach me: dsshuai2020@163.com
