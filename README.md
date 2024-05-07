@@ -22,7 +22,8 @@
 
 <!-- - 😊 I'm Du Shuai. -->
 - 🔭 I’m currently working on WuHan.
-- 🌱 I’m currently learning Vue & Nuxt & React & Next & ReactNative & Node.
+<!-- - 🌱 I’m currently learning Vue & Nuxt & React & Next & ReactNative & Node. -->
+- 🌱 I’m currently learning React & Next & Taro & ReactNative.
 - 📫 How to reach me: dsshuai2020@163.com
 
 个人方向：大前端，偏Vue技术栈，TypeScript
