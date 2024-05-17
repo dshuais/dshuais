@@ -25,9 +25,9 @@
 - 🌱 I’m currently learning React & Next & Taro & ReactNative.
 - 📫 How to reach me: dsshuai2020@163.com
 
-个人方向：大前端，偏Vue技术栈，TypeScript
-- Vue、Vue 3、Vue-Router、Vuex、Pinia、Vite、Webpack。
+个人方向：大前端，React/Vue技术栈，TypeScript
 - React、React-Router、Redux、Hooks、Zustand、Valtio。
+- Vue、Vue 3、Vue-Router、Vuex、Pinia、Vite、Webpack。
 - SSR Nuxt、Next。
 - 更多跨端框架学习，包括但不限于 Uni-App、Taro、React-Native。
 - 微前端解决方案 qiankun。
