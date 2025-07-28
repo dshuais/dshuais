@@ -6,7 +6,7 @@
 
 <div align="center">
   <samp>
-    <a href="https://www.dshuais.com/">me</a> ·
+    <a href="https://dshuais.netlify.app/">me</a> ·
     <a href="https://homepage.dshuais.com/">home</a> ·
     <a href="https://blog.dshuais.com/">blog</a> ·
     <a href="https://keep-design.dshuais.com/">keep-design</a> ·
